@@ -2,7 +2,7 @@
 
 What is photoshop? how to use is simply and work with it's tools (Foundation)
 > [!NOTE]
-> [Watch the 0th Session HERE](https://aparat.com/v/qtzgf30)
+> [Watch the 1st Session HERE](https://aparat.com/v/qtzgf30)
 ---
 # ✅ Tasks
 ## 🕐 Time to Select:
