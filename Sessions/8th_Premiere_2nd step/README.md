@@ -1,6 +1,6 @@
 # 🎨 GraphicDesign TechStack2025 
 
-Adobe Audition, working with sounds and learning about the analog environment!
+Adobe Premiere pro in greenScreen and tricks!
 > [!NOTE]
 > [Watch the 8th Session HERE](https://www.aparat.com/v/cba696h)
 ---
