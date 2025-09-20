@@ -10,6 +10,9 @@ Adobe Audition, working with sounds and learning about the analog environment!
 > Good luck 🪄🔮
 
 ---
+## 🕑READTHAT:
+> This is just a research! Read more about Edit-Proxy for Adobe Premiere Pro and practice. You can use MS-SandBox for this porpuse!
+---
 # 📖How to submit tasks?
 > You have to fork this repo in your account. Then go in tasks directoty. Make your own named branch overthere and add your homeworks pushed in a directory which is also own named. you will make a commit and create a pull request to send me what all i wanted above. <br>
 you can comment on others classmate's homework, but be prepared for east wind which comes...⚠️
