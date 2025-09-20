@@ -2,7 +2,7 @@
 
 Adobe Premire Pro animation majors!
 > [!NOTE]
-> [Watch the 9th Session HERE](https://aparat.com/v/dxy3z60)
+> [Watch the 9th Session HERE](https://www.aparat.com/v/rjkukc9)
 ---
 # ✅ Tasks
 ## 🕐Nothing :)
