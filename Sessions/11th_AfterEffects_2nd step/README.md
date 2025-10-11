@@ -10,7 +10,7 @@ Coclpit of the pilot in editing! Adobe After Effects
 > Send your .aep and .mp4 files
 ---
 
-## 🕐Simple animation
+## 🕐Magician Improvment
 > Download [this Magician](https://github.com/anjrzdgn/GraphicDesign_TechStack_2025/blob/main/Tasks/11th_task_assest/small-vecteezy_kyiv-ukraine-29-may-2024-performer-speaks-in-front-of_55074987_small.mp4) and [this effect](https://github.com/anjrzdgn/GraphicDesign_TechStack_2025/blob/main/Tasks/11th_task_assest/small-vecteezy_magic-six-star-green-powerful-energy-rotate-slow-appear_2727835_small.mp4)
 > you must to a hard job, but effeciant! apply this effect behind this man using masking a bring that man, infront of the effect
 > also moving upper with his hands!
